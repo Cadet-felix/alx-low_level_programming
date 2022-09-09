@@ -2,7 +2,7 @@
 
 /**
  * main - entry point
- *
+ * Description: print size of characters
  * Return: always 0
  *
  */
