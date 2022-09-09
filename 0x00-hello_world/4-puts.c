@@ -1,9 +1,8 @@
 #include <stdio.h>
-
 /**
  * main - entry point
- * Description: prints "\"programming is like building a multilingual puzzel"
- * Return: 0
+ *
+ * Return: always 0
  */
 
 int main(void)
