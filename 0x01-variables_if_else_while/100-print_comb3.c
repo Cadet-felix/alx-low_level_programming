@@ -1,13 +1,15 @@
 #include <stdio.h>
 
 /**
- * main - print all possible combination of two different digit.
+ * main - print all possible combination of two different digit,
+ * in ascending order, separated by comma followed by a space.
  *
  * Return: Always 0.
  */
 int main(void)
 {
 	int digit1, digit2;
+
 	for (digit1 = 0; digit1 < 9; digit1++)
 	{
 		for (digit2 = digit1 + 1; digit2 < 10; digit2++)

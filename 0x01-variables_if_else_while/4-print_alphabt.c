@@ -1,8 +1,7 @@
-#include <std.h>
+#include <stdio.h>
 
 /**
- * main - Entry point.
- * Description: print alphabet in lower case, excluding q and e.
+ * main -  print alphabet in lower case, excluding q and e.
  *
  * Return: Always 0.
  */
